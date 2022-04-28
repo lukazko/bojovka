@@ -9,3 +9,7 @@ body {
 .next {
     margin-top: 100px;
 }
+
+.list {
+    text-align: left;
+}
