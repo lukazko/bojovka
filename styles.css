@@ -13,3 +13,11 @@ body {
 .list {
     text-align: left;
 }
+
+.container img.hor {
+    max-width: 350px;
+}
+
+.container img.ver {
+    max-width: 156px;
+}
